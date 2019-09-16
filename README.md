@@ -7,6 +7,8 @@
 > 
 **This project requires Gradle 3.4 or newer**
 
+This is the IntelliJ plugin for Gradle, not to be confused with the [Gradle plugin for IntelliJ](https://github.com/JetBrains/intellij-community/tree/master/plugins/gradle).
+
 This plugin allows you to build plugins for IntelliJ platform using specific IntelliJ SDK and bundled plugins.
 
 The plugin adds extra IntelliJ-specific dependencies, patches processResources tasks to fill some tags 
