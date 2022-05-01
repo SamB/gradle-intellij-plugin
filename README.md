@@ -270,7 +270,7 @@ The following attributes help you to tune instrumenting behaviour in <kbd>instru
 
 Marketplace platform provides the [IntelliJ Platform Explorer](https://jb.gg/ipe) – a search tool for browsing Extension Points inside existing implementations of open-source IntelliJ Platform plugins.
 
-One of its features is the possibility of filtering the plugins by those that utilize [Gradle](https://jb.gg/ipe?buildSystem=gradle) or [Gradle KTS](https://jb.gg/ipe?buildSystem=gradle_kts) build scripts.
+One of its features is the possibility of filtering the plugins by those that utilize [Gradle](https://plugins.jetbrains.com/intellij-platform-explorer/extensions?buildSystem=gradle) or [Gradle KTS](https://plugins.jetbrains.com/intellij-platform-explorer/extensions?buildSystem=gradle_kts) build scripts.
 
 As examples of using this plugin, you can also check out following projects:
 
